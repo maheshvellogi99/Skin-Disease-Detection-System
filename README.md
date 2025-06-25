@@ -233,7 +233,9 @@ The model achieves high accuracy across multiple skin disease categories with:
 ## 📞 Support
 
 For questions, issues, or contributions:
-- Contact me at Github: https://github.com/maheshvellogi99 or at Linkedin: http://linkedin.com/in/mahesh-vellogi-aa13522ba
+- Contact me at maheshvellogi99@gmail.com
+  Github: https://github.com/maheshvellogi99 or
+  at Linkedin: http://linkedin.com/in/mahesh-vellogi-aa13522ba
 - Check the troubleshooting section
 - Review the code comments
 - Ensure all dependencies are installed
